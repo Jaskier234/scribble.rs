@@ -532,7 +532,7 @@ func advanceLobby(lobby *Lobby) {
 	lobby.drawer = newDrawer
 	lobby.drawer.State = Drawing
 	lobby.state = ongoing
-	lobby.wordChoice = GetRandomWords(3, lobby)
+	lobby.wordChoice = GetRandomWords(1, lobby)
 
 	recalculateRanks(lobby)
 
