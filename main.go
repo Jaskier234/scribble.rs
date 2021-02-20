@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/scribble-rs/scribble.rs/communication"
+	"github.com/jaskier234/scribble.rs/communication"
 )
 
 func main() {
