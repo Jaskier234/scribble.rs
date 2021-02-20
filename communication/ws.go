@@ -12,7 +12,7 @@ import (
 
 	"github.com/gorilla/websocket"
 
-	"github.com/scribble-rs/scribble.rs/game"
+	"github.com/jaskier234/scribble.rs/game"
 )
 
 var upgrader = websocket.Upgrader{

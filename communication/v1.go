@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/scribble-rs/scribble.rs/game"
-	"github.com/scribble-rs/scribble.rs/state"
+	"github.com/jaskier234/scribble.rs/game"
+	"github.com/jaskier234/scribble.rs/state"
 )
 
 //This file contains the API methods for the public API

@@ -3,7 +3,7 @@ package communication
 import (
 	"testing"
 
-	"github.com/scribble-rs/scribble.rs/game"
+	"github.com/jaskier234/scribble.rs/game"
 )
 
 func TestCreateLobby(t *testing.T) {
